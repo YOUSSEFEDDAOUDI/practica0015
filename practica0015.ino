@@ -3,9 +3,9 @@
 
 
   
-  #define pinA 8 //entrada 8
+  #define pinA 10 //entrada 10
   #define  pinB 9 //entrada 9
-  #define  pinC 10 //entrada 10
+  #define  pinC 8 //entrada 8
   #define  pinS 11 //salida 11 rele
   int tempo =4000;
   bool condicion = -1;
